@@ -5,6 +5,7 @@
 /functions/dist
 /functions/dist-server
 /functions/node_modules
+.history
 
 /firebase-debug.log
 /functions/lib
